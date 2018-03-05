@@ -1,0 +1,7 @@
+<resources>
+    <string name="about_title">ABOUT</string>
+    <string name="about_tutorial">Show tutorial</string>
+    <string name="about_conditions">Terms of usage</string>
+    <string name="about_website">Entourage Website</string>
+    <string name="about_email">Contact Entourage</string>
+</resources>

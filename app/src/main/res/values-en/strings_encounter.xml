@@ -2,14 +2,13 @@
 <resources>
 
     <string name="activity_read_encounter_title">COMPTE-RENDU</string>
-    <string name="activity_create_encounter_title">RENCONTRE</string>
+    <string name="activity_create_encounter_title">ENCOUNTER</string>
     <string name="encounter_hint_person_name">Nom de la personne</string>
     <string name="encounter_hint_notes">Détaillez votre rencontre</string>
     <string name="encounter_label_date">Date de rencontre</string>
     <string name="encounter_label_street_person_name">Personne de la rue</string>
     <string name="encounter_label_person_name_and">%1$s et</string>
     <string name="encounter_encountered">se sont rencontrés ici le %1$s</string>
-    <string name="encouter_add" translatable="false">@string/validate</string>
     <string name="login_fail">Erreur de connexion</string>
     <string name="create_encounter_failure">Echec de la création de rencontre</string>
     <string name="create_encounter_success">Rencontre créée</string>
@@ -19,7 +18,6 @@
     <string name="encounter_share_on_twitter">Partager sur Twitter</string>
     <string name="creating_encounter">Création de la rencontre …</string>
     <string name="creating_encounter_audio">Création du message audio …</string>
-    <string name="encounter_record_timer" translatable="false">00:00</string>
     <string name="encounter_leave_voice_message">Enregistrez un message vocal</string>
     <string name="encounter_voice_message_button">Lancer la reconnaissance vocale</string>
     <string name="encounter_voice_message_not_supported">La reconnaissance vocale n\'est pas supportée sur votre téléphone.</string>
@@ -27,8 +25,6 @@
     <string name="encounter_empty_fields">Veuillez remplir les champs</string>
     <string name="encounter_read_location">%1$s et %2$s se sont rencontrés à %3$s le %4$s.</string>
     <string name="encounter_read_location_no_address">%1$s et %2$s se sont rencontrés le %3$s.</string>
-    <string name="encounter_author_format" translatable="false">%1$s</string>
-    <string name="encounter_count_format" translatable="false">%1$d</string>
 
     <string name="updating_encounter">Mise à jour de la rencontre …</string>
     <string name="update_encounter_failure">La rencontre n’a pu être modifiée</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="activity_display_user_title">PROFIL</string>
+    <string name="activity_display_user_title">PROFILE</string>
     <string name="user_information_label">Informations de maraudeur</string>
     <string name="user_privacy_label">Informations privées</string>
     <string name="user_unsubscribe_label">Désinscription</string>
@@ -22,7 +22,6 @@
     <string name="user_number_entourages_label">Nombre d’entourages</string>
     <string name="user_number_tours_label">Nombre de maraudes</string>
     <string name="user_associations_title">Association(s)</string>
-    <string name="user_entourage_count_format" translatable="false">%1$d</string>
     <string name="user_about_title">À propos de moi</string>
     <string name="user_about_hint">Présentez-vous à la communauté en quelques mots !</string>
     <string name="user_about_edit_button">Écrire ma présentation</string>
@@ -62,7 +61,7 @@
     <string name="user_delete_account_in_progress">Suppression en cours</string>
     <string name="user_delete_account_failure">Erreur lors de la suppression du compte</string>
 
-    <string name="user_view_profile">Voir Profil</string>
+    <string name="user_view_profile">Show Profile</string>
 
     <!-- Edit Association -->
     <string name="user_edit_asso_title">SOUTENIR</string>
@@ -83,9 +82,7 @@
     <string name="user_photo_uploading">Envoi de la photo</string>
 
     <!-- User Edit About -->
-    <string name="user_edit_about_description" translatable="false">@string/user_about_hint</string>
     <string name="user_edit_about_hint">Ecrivez quelque chose…</string>
-    <string name="user_edit_about_save_button" translatable="false">@string/validate</string>
     <string name="user_edit_about_error">Votre text doit faire moins de 200 caractères.</string>
 
 </resources>

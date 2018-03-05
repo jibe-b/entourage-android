@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">Entourage</string>
+    <string name="app_name" translatable="false">Entourage</string>
     <string name="button_loading">Chargement…</string>
-    <string name="entourage_title">Entourage</string>
+    <string name="entourage_title" translatable="false">Entourage</string>
     <string name="entourage_slogan">Un peu de chaleur humaine.</string>
     <string name="error_end_tour_before_logout">Terminez la maraude avant de vous déconnecter</string>
     <string name="error_not_yet_implemented">Indisponible</string>
@@ -26,12 +26,12 @@
     <string name="edit">Editer</string>
     <string name="activate">Activer</string>
 
-    <string name="disclaimer_link_public">https://blog.entourage.social/charte-ethique-grand-public/</string>
+    <string name="disclaimer_link_public" translatable="false">https://blog.entourage.social/charte-ethique-grand-public/</string>
     <string name="disclaimer_link_pro">https://blog.entourage.social/charte-ethique/</string>
 
-    <string name="redirect_link_format">%1$slinks/%2$s/redirect?token=%3$s</string>
+    <string name="redirect_link_format" translatable="false">%1$slinks/%2$s/redirect?token=%3$s</string>
 
-    <string name="deeplinks_label">!!Open with Entourage</string>
+    <string name="deeplinks_label" translatable="false">!!Open with Entourage</string>
 
     <string name="drawer_error">Le menu %1$s n\'est pas encore disponible</string>
     <string name="unsubscribe_error">La désinscription n\'est pas encore disponible</string>
@@ -40,11 +40,11 @@
     <string name="server_error">Nous avons un petit problème…\nIl sera très vite corrigé ;)</string>
     <string name="no_browser_error">Aucun navigateur n\'est installé</string>
 
-    <string name="badge_count_format">%1$d</string>
+    <string name="badge_count_format" translatable="false">%1$d</string>
 
-    <string name="empty_description"></string>
+    <string name="empty_description" translatable="false"></string>
 
-    <string name="facebook_app_id">280727035774134</string>
-    <string name="fb_login_protocol_scheme">fb280727035774134</string>
+    <string name="facebook_app_id" translatable="false">280727035774134</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb280727035774134</string>
 
 </resources>

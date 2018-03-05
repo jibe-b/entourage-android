@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_display_message_title">Message</string>
+    <string name="activity_display_message_close">Close</string>
+    <string name="message_label_from">New message from :</string>
+    <string name="message_label_object">Object :</string>
+    <string name="message_label_content">Message :</string>
+    <string name="message_unknown">Empty message</string>
+
+</resources>

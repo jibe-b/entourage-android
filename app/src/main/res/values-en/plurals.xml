@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tours_count">
+        <item quantity="zero">No tour yet</item>
+        <item quantity="one">%d tour completed</item>
+        <item quantity="other">%d tour completed</item>
+    </plurals>
+    <plurals name="encounters_count">
+        <item quantity="zero">No people yet</item>
+        <item quantity="one">%d people met</item>
+        <item quantity="other">%d people met</item>
+    </plurals>
+    <plurals name="kilometers_count">
+        <item quantity="zero">No km walked yet</item>
+        <item quantity="one">%s km walked</item>
+        <item quantity="other">%s walked</item>
+    </plurals>
+</resources>

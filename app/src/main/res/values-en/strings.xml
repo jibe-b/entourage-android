@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="button_loading">Loading…</string>
+    <string name="entourage_slogan">Un peu de chaleur humaine.</string>
+    <string name="error_end_tour_before_logout">Terminez la maraude avant de vous déconnecter</string>
+    <string name="error_not_yet_implemented">Not available</string>
+    <string name="error_google_play_store_not_installed">Le Google Play Store n\'est pas intallé</string>
+    <string name="error_application_update">La version d\'Entourage installée n\'est plus supportée. Pour pouvoir continuer à utiliser nos services et profiter de la meilleure expérience possible, veuillez la mettre à jour avec la dernière version en cliquant sur le lien suivant.</string>
+    <string name="button_update_version">Update</string>
+    <string name="title_update_version">UPDATE AVAILABLE</string>
+    <string name="error_no_email">No email config found</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Refuse</string>
+    <string name="cancel">Cancel</string>
+    <string name="leave">Quit</string>
+    <string name="send">Send</string>
+    <string name="validate">Validate</string>
+    <string name="register">Save</string>
+    <string name="ignore">Ignore</string>
+    <string name="next">Continue</string>
+    <string name="close">Close</string>
+    <string name="edit">Edit</string>
+    <string name="activate">Activate</string>
+
+    <string name="disclaimer_link_pro">https://blog.entourage.social/charte-ethique/</string>
+
+    <string name="drawer_error">Le menu %1$s n\'est pas encore disponible</string>
+    <string name="unsubscribe_error">La désinscription n\'est pas encore disponible</string>
+    <string name="network_error">Vérifiez votre connexion\net réessayez plus tard</string>
+    <string name="technical_error">Nous avons un petit problème…\nIl sera bientôt corrigé ;)</string>
+    <string name="server_error">Nous avons un petit problème…\nIl sera très vite corrigé ;)</string>
+    <string name="no_browser_error">Aucun navigateur n\'est installé</string>
+
+    <string name="empty_description"></string>
+    <string name="country_zambia_name">Zambia</string>
+    <string name="map_filter_time_option3">1M</string>
+    <string name="map_filter_time_option1">24H</string>
+    <string name="map_filter_time_option2">8D</string>
+    <string name="country_timor_leste_name">Timor-Leste</string>
+
+</resources>

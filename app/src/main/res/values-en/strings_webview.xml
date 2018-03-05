@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="webview_menu_browser">Open in navigator</string>
+    <string name="webview_menu_copy">Copy link</string>
+    <string name="webview_menu_share">Share</string>
+
+    <string name="webview_share_text">J\'ai découvert le guide Simple Comme Bonjour pour aller à la rencontre des personnes sans-abri. C\'est à découvrir ici :\n%1$s</string>
+
+    <string name="webview_copy_ok">Link copied!</string>
+</resources>

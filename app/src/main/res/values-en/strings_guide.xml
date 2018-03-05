@@ -37,6 +37,5 @@
 
     <!-- POI Card -->
     <string name="poi_card_call">APPELER</string>
-    <string name="poi_card_bullet" translatable="false">•</string>
 
 </resources>

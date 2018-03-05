@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="map_api_key" translatable="false">AIzaSyAFqKD4mIEGQIfgbwQVQloMrlRkrqk9J4M</string>
-    <string name="activity_map_title">MARAUDES</string>
+    <string name="activity_map_title">TOURS</string>
     <string name="activity_map_title_small">Entourages</string>
-    <string name="activity_map_tab_map">Carte</string>
-    <string name="activity_map_tab_liste">Liste</string>
+    <string name="activity_map_tab_map">Map</string>
+    <string name="activity_map_tab_liste">List</string>
     <string name="activity_map_new_entourages">\u0020Nouveaux entourages</string>
 
     <string name="map_gps_unavailable">Aucun signal de localisation</string>
     <string name="map_permission_title">Entourage doit accéder à la géolocalisation</string>
     <string name="map_permission_description">Sans géolocalisation Entourage ne peut pas fonctionner.</string>
-    <string name="map_permission_refuse">Refuser</string>
+    <string name="map_permission_refuse">Refuse</string>
     <string name="map_permission_explanation">Pour vous faire découvrir les actions solidaires autour de vous,\nEntourage doit connaître votre position.</string>
     <string name="map_permission_activate_button">Activez la géolocalisation</string>
     <string name="map_permission_extra">Nous concoctons une alternative qui sera disponible prochainement !</string>
@@ -36,7 +35,5 @@
     <string name="map_filter_user_only_text">Mes entourages</string>
     <string name="map_filter_partner_only_text">Crées par les sympathisants de l’association que je soutiens</string>
     <string name="map_filter_time_title">Affichage des entourages</string>
-    <string name="map_filter_time_option1">24H</string>
-    <string name="map_filter_time_option2">8J</string>
     <string name="map_filter_time_option3">1M</string>
 </resources>

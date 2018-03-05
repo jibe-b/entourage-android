@@ -6,9 +6,8 @@
     <string name="entourage_create_type_demand">Je cherche : %1$s</string>
     <string name="entourage_create_type_contribution">Je me propose de : %1$s</string>
     <string name="entourage_create_position_description">Ma position</string>
-    <string name="entourage_create_title_label">Titre</string>
+    <string name="entourage_create_title_label">Title</string>
     <string name="entourage_create_title_hint">Exemple : %1$s</string>
-    <string name="entourage_create_title_char_count_format" translatable="false">%1$d/%2$d</string>
     <string name="entourage_create_description_label">Description</string>
     <string name="entourage_create_description_demand_hint">J\'habite dans le quartier de République et je souhaiterais savoir si des voisins pourraient me faire faire connaissance avec des personnes de la rue du quartier qu\'ils connaissent déjà. Et si ce n\'est pas encore le cas, allons à leur rencontre ensemble pour leur offrir encore plus de chaleur humaine que n\'en donne la météo !</string>
     <string name="entourage_create_description_contribution_hint">Exemple : Je suis ancien employé de mairie et disponible pour aide administrative pour l’accès au logement.\nSi vous pensez avoir besoin d’aide, nous pouvons nous retrouver dans un café le weekend.</string>
@@ -29,7 +28,7 @@
     <string name="entourage_category_type_contribution_label">JE ME PROPOSE DE…</string>
 
     <!-- Entourage Title Fragment -->
-    <string name="entourage_title_fragment_title">TITRE</string>
+    <string name="entourage_title_fragment_title">TITLE</string>
     <string name="entourage_title_fragment_hint">Exemple : Je suis disponible pour aide administrative pour l’accès au logement </string>
     <string name="entourage_title_fragment_info">Les actions avec un titre clair attirent plus de membres et ont plus de chances d’aboutir !</string>
     <string name="entourage_title_fragment_error">Votre titre doit faire moins de 100 caractères. Vous pourrez en dire plus dans la description.</string>
@@ -94,9 +93,8 @@
     <string name="myentourages_filter_tours">Maraudes</string>
     
     <!-- Create entourage dialog while tour is ongoing -->
-    <string name="entourage_tour_ongoing_title" translatable="false">@string/tour_info_text_ongoing</string>
     <string name="entourage_tour_ongoing_description">Souhaitez-vous créer une rencontre avec une personne de la rue, ou créer une action visible de tous?</string>
-    <string name="entourage_tour_ongoing_proceed">Rencontre</string>
+    <string name="entourage_tour_ongoing_proceed">Encounter</string>
     <string name="entourage_tour_ongoing_action">Action</string>
 
     <!-- Close Entourage Popup -->

@@ -1,0 +1,17 @@
+<resources>
+    <string name="sidemenu_title">My account</string>
+    <string name="action_settings">Paramètres de l’application</string>
+    <string name="action_logout">Log out</string>
+    <string name="action_guide">Carte des structures solidaires</string>
+    <string name="action_tours">TOURS</string>
+    <string name="action_profile">PROFILE</string>
+    <string name="action_about">Help &amp; about</string>
+    <string name="action_edit_profile"><u>Edit my profile</u></string>
+    <string name="action_blog">Conseils pour oser la recontre</string>
+    <string name="action_charte">Charte éthique</string>
+    <string name="action_goal">Idées d\'actions dans l\'appli</string>
+    <string name="action_faq">Frequent questions</string>
+    <string name="action_atd">Notre partenariat avec ATD</string>
+    <string name="action_donation">Donate</string>
+    <string name="action_involvement">Agir avec Entourage</string>
+</resources>

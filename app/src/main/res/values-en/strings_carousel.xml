@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="carousel_close_button" translatable="false">@string/close</string>
-
     <string name="carousel_p1_title">Présentez-vous aux membres du réseau</string>
     <string name="carousel_p1_about">Bonjour ! Je viens de rejoindre le réseau et je voudrais rencontrer des voisins bienveillants.</string>
     <string name="carousel_p1_content"><![CDATA[Pour renseigner votre description, <font color="#ec4e1a">accédez à votre profil depuis le bouton menu</font> en haut à gauche : ]]></string>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_today">TODAY</string>
+    <string name="date_yesterday">YESTERDAY</string>
+    <string name="date_month_1">jan.</string>
+    <string name="date_month_2">feb.</string>
+    <string name="date_month_3">mar.</string>
+    <string name="date_month_4">apr.</string>
+    <string name="date_month_5">may</string>
+    <string name="date_month_6">june</string>
+    <string name="date_month_7">july</string>
+    <string name="date_month_8">aug.</string>
+    <string name="date_month_9">sep.</string>
+    <string name="date_month_10">oct.</string>
+    <string name="date_month_11">nov.</string>
+    <string name="date_month_12">dec.</string>
+</resources>
